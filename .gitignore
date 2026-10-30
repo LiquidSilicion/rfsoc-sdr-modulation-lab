@@ -1,0 +1,45 @@
+# --- Vivado / Vitis / Xilinx ---
+*.Xil/
+*.cache/
+*.hw/
+*.runs/
+*.srcs/
+*.sim/
+*.ip_user_files/
+*.webtalk/
+*.log
+*.jou
+*.str
+*.dcp
+*.xpr
+*.xsa
+*.bit
+*.bin
+*.elf
+*.xclbin
+*.hwh
+*.ltx
+*.mcs
+*.prm
+*.sysdef
+*.sdk/
+*.vitis/
+*.petalinux/
+
+# --- PYNQ / Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
